@@ -41,9 +41,9 @@ A full-stack web application that provides AI-assisted analysis of medical image
 [![Demo Video]()
 
 ## 🚀 Live Demo
-- **Frontend:** https://your-app.netlify.app
-- **Backend API:** https://your-api.railway.app
-- **GitHub:** https://github.com/rj21959/RadAssist
+- **Frontend:** https://your-app.netlify.app       SORRY CURRENTLY IT AIN'T DEPLOYED SOON THE LINKS ARE VISIBLE!!!
+- **Backend API:** https://your-api.railway.app    SORRY CURRENTLY IT AIN'T DEPLOYED SOON THE LINKS ARE VISIBLE!!!
+- **GitHub:** https://github.com/rj21959/RadAssist SORRY CURRENTLY IT AIN'T DEPLOYED SOON THE LINKS ARE VISIBLE!!!
 
 ## 📋 Features
 - AI-powered medical image analysis
