@@ -1,0 +1,76 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+
+# Python
+*.egg-info/
+*.egg
+dist/
+build/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Model weights and large files
+backend/model/*.pt
+backend/model/*.h5
+backend/model/*.pkl
+backend/model/*.joblib
+*.pth
+*.onnx
+
+# Environment
+venv/
+.env
+.env.local
+.env.production
+.venv
+env/
+
+# VSCode settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node.js/React
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+frontend/.env.production
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/.eslintcache
+
+# Build outputs
+frontend/build/
+frontend/.next/
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+
+# Data files (if you have large datasets)
+data/*.jpg
+data/*.png
+data/*.dcm
+!data/sample_xray.jpg  # Keep sample file
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyTest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Database
+*.db
+*.sqlite3
