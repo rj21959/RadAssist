@@ -36,3 +36,23 @@ A full-stack web application that provides AI-assisted analysis of medical image
    ```bash
    git clone <repository-url>
    cd RadAssist
+
+   ## 🎥 Demo Video
+[![Demo Video]()
+
+## 🚀 Live Demo
+- **Frontend:** https://your-app.netlify.app
+- **Backend API:** https://your-api.railway.app
+- **GitHub:** https://github.com/rj21959/RadAssist
+
+## 📋 Features
+- AI-powered medical image analysis
+- Real-time diagnostic suggestions
+- Modern React interface
+- FastAPI backend with ML integration
+
+## 🛠️ Tech Stack
+- **Frontend:** React, Vite, CSS3
+- **Backend:** FastAPI, Python
+- **AI/ML:** PyTorch, OpenCV
+- **Deployment:** Netlify, Railway
