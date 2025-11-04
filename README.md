@@ -38,7 +38,7 @@ A full-stack web application that provides AI-assisted analysis of medical image
    cd RadAssist
 
    ## 🎥 Demo Video
-[![Demo Video]()
+[![Demo Video](https://drive.google.com/drive/folders/1cqAwGFHB--lrkAu43_gr1OUqjzsTxJMs)
 
 ## 🚀 Live Demo
 - **Frontend:** [https://your-app.netlify.app](https://radassistai.netlify.app/)
